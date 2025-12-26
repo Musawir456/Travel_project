@@ -78,4 +78,4 @@ or
 
 ## Author
 
-- **Your Name** – Data / IoT student interested in Python, data analysis, and networking.
+- **Abdul Musawir** – Data Scientist / IT student interested in Python, data analysis, and networking.
